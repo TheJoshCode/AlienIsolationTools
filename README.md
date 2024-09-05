@@ -1,2 +1,10 @@
-# AlienIsolationTools
-A Fork of the Existing Model and Texture Import/Export Tools By Matt Filer
+# Features
+
+- Model Exctractor - By: MattFiler
+- Texture Extractor - By: MattFiler
+- Blender Batch Import .pObject Addon - By: Me
+
+# Requirements
+
+- Alien: Isolation
+- Blender 2.77: https://download.blender.org/release/Blender2.77/
