@@ -1,6 +1,6 @@
 # Features
 
-- Model Exctractor - By: MattFiler
+- Model Extractor - By: MattFiler
 - Texture Extractor - By: MattFiler
 - Blender Batch Import .pObject Addon - By: Me
 
